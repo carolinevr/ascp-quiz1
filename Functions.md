@@ -28,3 +28,12 @@ function doSomething(x,y){
 
 ```
 
+Returning a parameter within a function is done by
+
+```javascript
+
+function doSomething(x){
+return x*5;
+}
+
+```
