@@ -3,4 +3,7 @@
 ## Need to Know
 
 
-A `fuction` is created/called by doing 'function DoSomething(){ var action= x+1}'
+A `fuction` is created/called by doing 
+```javascript
+'function DoSomething(){ var action= x+1}'
+```
