@@ -48,6 +48,13 @@ x+random
 
 ```
 
+Calling a function is simple. After defining the function, you call it by doing
+
+```javascript
+
+doSomething();
+
+```
 
 
 
