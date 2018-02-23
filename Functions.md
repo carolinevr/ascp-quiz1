@@ -1,6 +1,6 @@
 # Functions
 
-### Need to Know
+## Need to Know
 
 
 A `fuction` is created/called by doing 
@@ -9,3 +9,7 @@ A `fuction` is created/called by doing
 function DoSomething(){ var action= x+1};
 
 ```
+
+var x = function(){}
+
+when you call a function, use camelCase, parentheses and a semicolon: doSomething();
