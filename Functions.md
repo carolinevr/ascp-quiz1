@@ -32,11 +32,20 @@ Returning a parameter within a function is done by
 
 ```javascript
 
-function doSomething(x){
-return x*5;
+function doSomething(x,y){
+return x*y;
 }
 
 ```
+If the doSomething Function were to be called
+
+```javascript
+
+doSomething(4,6)
+24
+```
+
+
 Functions can contain things such as `for` and `if` which are called by
 ```javascript
 
