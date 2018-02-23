@@ -9,6 +9,7 @@ A `fuction` is created/called by doing
 function doSomething(){ var action= x+1};
 
 ```
+When you call a function, use camelCase, parentheses and a semicolon: doSomething();
 
 ```javascript
 
@@ -16,7 +17,7 @@ var x = function(){}
 
 ````
 
-When you call a function, use camelCase, parentheses and a semicolon: doSomething();
+
 
 A function can accept things called parameters which are passed in
 
