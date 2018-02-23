@@ -37,3 +37,17 @@ return x*5;
 }
 
 ```
+Functions can contain things such as `for` and `if` which are called by
+```javascript
+
+function doSomething(x){
+for(i=0;i<100;i++){
+x+random
+  }
+}
+
+```
+
+
+
+
